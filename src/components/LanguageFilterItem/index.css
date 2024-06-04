@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.filter-button-items {
+  margin-right: 10px;
+}
+
+.btn-el {
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: transparent;
+  color: #0f172a;
+  padding: 10px;
+  text-align: center;
+}
+
+.active {
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+}
